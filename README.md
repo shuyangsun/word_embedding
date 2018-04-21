@@ -1,2 +1,2 @@
-# word_embedding
-Word embedding experiments.
+# Word Embedding
+Word embedding experiments with pre-trained GloVe embeddings.
